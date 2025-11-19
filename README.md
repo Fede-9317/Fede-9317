@@ -4,18 +4,17 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+ByteRanger+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
   
 </div>
 
 ## 🚀 About Me
-
-- 💻 **Full Stack Developer** with expertise in **React.js**, **Node.js**, **Express**, and **MongoDB** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎯 Passionate about creating **scalable**, **performant**, and **user-centric** web applications
-- 🌐 Specialist in **responsive design**, **accessibility**, and **modern web standards** 
-- 🔧 Experience with **TypeScript**, **Next.js**, **Tailwind CSS**, and **RESTful APIs**
-- 🤖 Integrating **AI/ML solutions** and **third-party APIs** (OpenAI, Firebase, GitHub) into web applications
-- 📬 Open to collaborations and exciting opportunities
+- 💻 **AI, Blockchain Full Stack Developer**
+- 🎯 Passionate about building **decentralized**, **scalable**, and high-performance applications
+- 🌐 Specialist in **AI/ML** integration and **blockchain** technologies
+- 🔧 Experienced in **React.js**,**Node.js**, **Express**,** MongoDB**, and **smart contract** development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤖 Proficient in creating **intelligent systems** and decentralized applications (**DApps**)
+- 📬 Open to collaborations and **cutting-edge** opportunities
 
 <div align="center">
   
@@ -207,22 +206,6 @@
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
-
-[![TejaNaik15's GitHub stats](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&border_radius=2)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
-
-<div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="TejaNaik15's contribution graph" />
-    </picture>
-</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
